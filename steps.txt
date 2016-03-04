@@ -1,0 +1,16 @@
+steps to upload repo to GitHub
+1. go to GitHub, and click new repository
+2. on local computer, create a local repository
+3. initiate a git repository
+4. in the local repository, create some test files.
+5. in the local repository, add and commit the test files.
+6. go back in the test files and add some content to them.
+7. in the local repository, add and commit the test files again.
+8. navigate to GitHub, and copy the code for an already existing local repository
+9. in the local repository, do: git remote add origin https:<name of GitHub basic_repo>
+10. in local repository, do: git push origin master
+
+11. add a simple txt file to local repository by:	touch steps.txt
+12. add and commit the steps.txt to the local repository
+13. in the local repository, do: git push origin master
+14. the steps.txt file should appear in the GitHub account.
